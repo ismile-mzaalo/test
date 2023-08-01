@@ -1,0 +1,15 @@
+{
+  "name": "onepoket",
+  "version": "1.0.0",
+  "description": "task of onepoket",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ismile",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
